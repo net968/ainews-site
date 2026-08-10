@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://net968.github.io/ainews-site/sitemap.xml
