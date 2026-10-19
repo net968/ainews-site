@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://net968.github.io/ainews-site/</loc><changefreq>hourly</changefreq><priority>1.0</priority></url>
+<url><loc>https://net968.github.io/ainews-site/p/950-mcp-servers-v2-0-0-onovlenna-do-sucasnogo-speku.html</loc><lastmod>2026-10-19</lastmod><changefreq>weekly</changefreq></url>
 <url><loc>https://net968.github.io/ainews-site/p/949-nvidia-vidkryla-run-ai-dla-orkestracii-gpu-u-kubernetes.html</loc><lastmod>2026-10-19</lastmod><changefreq>weekly</changefreq></url>
 <url><loc>https://net968.github.io/ainews-site/p/948-vllm-pryskoryv-kimi-k3-840-tokeniv-s-na-16-gpu.html</loc><lastmod>2026-10-18</lastmod><changefreq>weekly</changefreq></url>
 <url><loc>https://net968.github.io/ainews-site/p/947-torval-ds-vypravyv-linux-za-dopomogou-claude-code-i-znajsov-.html</loc><lastmod>2026-10-18</lastmod><changefreq>weekly</changefreq></url>
@@ -500,5 +501,4 @@
 <url><loc>https://net968.github.io/ainews-site/p/452-gid-po-nemo-guardrails-bezpecnyj-ai-dla-biznesu.html</loc><lastmod>2026-08-23</lastmod><changefreq>weekly</changefreq></url>
 <url><loc>https://net968.github.io/ainews-site/p/451-comu-coding-agenty-ce-ne-lyse-rev-u-kodu.html</loc><lastmod>2026-08-22</lastmod><changefreq>weekly</changefreq></url>
 <url><loc>https://net968.github.io/ainews-site/p/450-ollama-vypustyla-v0-33-0-integracia-claude-ta-pidklucenna-za.html</loc><lastmod>2026-08-22</lastmod><changefreq>weekly</changefreq></url>
-<url><loc>https://net968.github.io/ainews-site/p/449-adop-vid-aws-inzeneria-danyh-za-godyny-zamist-tyzniv.html</loc><lastmod>2026-08-22</lastmod><changefreq>weekly</changefreq></url>
 </urlset>
